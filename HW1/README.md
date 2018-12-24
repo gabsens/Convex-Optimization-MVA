@@ -1,0 +1,1 @@
+The content of HW1 was exercises 2.12, 3.21, 3.32, 3.36 in Boyd's book.
